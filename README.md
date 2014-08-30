@@ -1,6 +1,6 @@
 dnaseqbasic
 ===========
-made in Python 3.3 with tkinter  
+a simple dna sequence comparison program with GUI made in Python 3.3 with tkinter    
 
 -finds ONE point mutation between 2 DNA sequences  
 -also counts how many nucleotides in the sequence 
