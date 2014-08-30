@@ -22,7 +22,7 @@ the program will ouput: 8. g, a
 CONs :  
 -does not do anything else other than find a single point mutation :<  
 -if your sequence contains multiple mutations, the program only outputs the last one  
--if you have a really long sequence (i.e.16494), the program gets kinda laggy (although I've only tested this on my   netbook so far)  
+-if you have a really long sequence (i.e.16494 bp), the program gets kinda laggy (although I've only tested this on my   netbook so far)  
 
 Background:  
 
