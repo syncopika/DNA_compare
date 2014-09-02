@@ -38,7 +38,11 @@ def DNAcompare():
                     length2.set(str(len(value2)))
     except ValueError:
         pass
-        
+
+#by putting the DNAcompare() function under the domain of onclick, connecting the Enter/Return key and DNAcompare should be successful. 
+def onclick(event="None"):
+    DNAcompare()
+    
 mainframe = ttk.Frame(root, padding="12 12 12 12") #specify dimensions of window (padding is left top right bottom-clockwise)
 mainframe.grid(column=0, row=0, sticky=(N, W, E, S)) #place grid onto window
 mainframe.columnconfigure(0, weight=1)
@@ -66,6 +70,6 @@ ttk.Label(mainframe, text="result:").grid(column=1,row=3, sticky=W)
 #touch-up to make the GUI pretty :D
 for child in mainframe.winfo_children(): child.grid_configure(padx=6, pady=6)
 seq1_entry.focus()
-root.bind('<Return>', DNAcompare)
+root.bind('<Return>', onclick)
 
 root.mainloop();
