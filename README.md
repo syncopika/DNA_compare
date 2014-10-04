@@ -5,6 +5,8 @@ a simple dna sequence comparison program with GUI made in Python 3.3 with tkinte
 -finds ONE point mutation between 2 DNA sequences  
 -also counts how many nucleotides in the sequence 
 
+![dna point mutation finder](http://33.media.tumblr.com/39e9389c6b91a9262045ad3cf39c39a6/tumblr_nbamxkCoVi1rvm1x2o1_1280.png "dna point mutation finder"
+
 PROs:  
 -finds you a single point mutation!  
 -counts nucleotides!  
