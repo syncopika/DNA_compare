@@ -16,8 +16,8 @@ PROs:
 -the operations for doing all this is contained in a cute, little, albeit simple GUI. :D  
 
 example: *seq1: atcgatcga
-    *seq2: atcgatcaa  
-         
+*seq2: atcgatcaa  
+
 the program will ouput: 8. g, a   
 => mutation at nucleotide number 8, guanine is changed to adenine.   
 
