@@ -15,8 +15,8 @@ PROs:
 -if you're comparing sequences of different lengths, the comparison will be done by adjusting the longer string to the   length of the smaller one.  
 -the operations for doing all this is contained in a cute, little, albeit simple GUI. :D  
 
-example:
-seq1: atcgatcga
+example:  
+seq1: atcgatcga  
 seq2: atcgatcaa  
 
 the program will ouput: 8. g, a   
