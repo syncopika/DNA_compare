@@ -31,4 +31,4 @@ the program will ouput: 8. g, a
 
    I took a microbiology course last semester (today is 8/30/14) called BSCI283 at UMD. It was a nice course and I learned a lot, I think, but there was one exam that had a take home portion that required us to compare a couple sequences. This particular set of sequences had a length of 16494 base pairs. And apparently, there was supposed to be ONE SINGLE POINT MUTATION in the whole set. :< (I failed this part because I forgot to do it until last minute, but more importantly, I didn't have a way to quickly find the one, single mutation.) Anyway, so that inspired me to make this program. Although far from perfect, I think it would have maybe helped me had I had this program on the day I was working on the take-home part of that terrible exam.  
     
-I made this program a couple weeks into seriously attempting to self-study Python. Hopefully my future works will be better. :) Thanks for checking this out!
+I made this program a couple weeks into seriously attempting to self-study Python. Hopefully my future works will be better. Thank you for checking this out!
