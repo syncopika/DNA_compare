@@ -1,4 +1,4 @@
-dnaseqbasic
+dnaseqbasic (dnacompare is w/o GUI)
 ===========
 a simple dna sequence comparison program with GUI made in Python 3.3 with tkinter    
 
